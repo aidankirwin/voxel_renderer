@@ -8,6 +8,6 @@ The voxel_renderer is based on voxel video games like Minecraft. It is created e
 I created the textures using www.pixilart.com. 
 All information on Perlin noise came from www.scratchapixel.com. All information on OpenGL and the assorted libraries used (GLAD, GLFW, stb_image, GLM) came from www.learnopengl.com. These are amazing sources, and I recommend that anyone who is interested in noise functions and/or graphics programming read them.
 
-If you wish to run this project, you will need to download and configure/link the necessary libraries, specifically glm and GLFW (stb_image and GLAD are included in the repo). To see information about downloading and configuring GLFW: www.learnopengl.com/Getting-started/Creating-a-window (this page also covers downloading GLAD). To see information about downloading and configuring GLM: www.learnopengl.com/Getting-started/Transformations (instructions can be found in the final section, "In practice").
+If you wish to run this project, you will need to download and configure/link the necessary libraries, specifically GLM and GLFW (stb_image and GLAD are included in the repo). To see information about downloading and configuring GLFW: www.learnopengl.com/Getting-started/Creating-a-window (this page also covers downloading GLAD). To see information about downloading and configuring GLM: www.learnopengl.com/Getting-started/Transformations (instructions can be found in the final section, "In practice").
 
 This is a project for testing and educational purposes only.
